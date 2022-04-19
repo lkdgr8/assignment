@@ -1,0 +1,307 @@
+body {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.navbar-nav {
+  position: relative;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+}
+
+.logo {
+  margin-top: 20px;
+  position: relative;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  text-align: center;
+}
+
+.text2 {
+  font-size: 15px;
+}
+
+.nav-item {
+  text-align: left;
+  font: normal normal 600 15px/20px Segoe UI !important;
+  letter-spacing: 0px;
+  color: #000000 !important;
+  opacity: 1;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+hr {
+  width: 100%;
+  height: 2px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  border: 1px solid #707070;
+}
+
+.home-banner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.home-button {
+  background: #1492E6 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 16px 48px #00000029;
+          box-shadow: 0px 16px 48px #00000029;
+  border-radius: 33px;
+  color: white;
+  width: 147px;
+  height: 45px;
+  border: none;
+}
+
+.card-title {
+  font-size: 15px;
+  text-align: center;
+}
+
+.card-title1 {
+  font-size: 15px;
+  text-align: left;
+}
+
+.card-body {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 3px 6px #00000029;
+          box-shadow: 0px 3px 6px #00000029;
+  border-radius: 19px;
+  border: none;
+  width: 250px;
+  height: 250px;
+}
+
+.card-body1 {
+  width: 250px;
+  height: 250px;
+}
+
+.section-title {
+  margin-top: 100px;
+  font: normal normal bold 35px/47px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  text-align: center;
+}
+
+.section-title1 {
+  margin-top: 200px;
+  margin-bottom: 50px;
+  font: normal normal bold 35px/47px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  text-align: center;
+}
+.left{
+    align-items: left !important;
+}
+.right{
+    align-items: right !important;
+}
+.section-title2 {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font: normal normal bold 35px/47px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  text-align: center;
+}
+
+.section-title3 {
+  margin-top: 150px;
+  margin-bottom: 50px;
+  font: normal normal bold 35px/47px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  text-align: center;
+}
+
+.section-title4 {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  font: normal normal bold 35px/47px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  text-align: center;
+}
+
+.containerfinal {
+  margin-bottom: 100px;
+}
+
+.card-img-top {
+  width: 185px !important;
+}
+
+.card-img-top2 {
+  width: 185px !important;
+}
+
+.card-img-top3 {
+  width: 150px !important;
+  height: 150px;
+}
+
+.flow-title > img {
+  height: 50px;
+  width: 60px;
+  padding-right: 1rem;
+}
+
+.card {
+  border: none !important;
+}
+
+.card-text1 {
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.flow-title {
+  align-items: left;
+  font-weight: bold;
+}
+
+.carousal-cont {
+    height: 300px;
+  border: none !important;
+  background: #F8FAFC 0% 0% no-repeat padding-box !important;
+  -webkit-box-shadow: 0px 16px 48px #00000029 !important;
+          box-shadow: 0px 16px 48px #00000029 !important;
+  border-radius: 42px !important;
+  padding: 1rem;
+}
+
+.carousal-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.carousal-title > .text {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.carousal > .container > .card.carousal-cont > .card-group {
+  background-color: transparent;
+  position: relative !important;
+  top: 2.5rem !important;
+  left: 50% !important;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+}
+
+.star-cont{
+	margin-top: -10px;
+}
+
+.card-body3{
+  height: 200px;
+  width: 200px;
+}
+
+.star-cont > .star {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  right: 0px;
+}
+
+.profile {
+  width: 42px;
+  height: 43px;
+}
+
+.car > .car-title > .text {
+  line-height: 10px !important;
+  font: normal normal 600 13px/18px Nunito Sans;
+  color: #000000;
+  padding-left: 10px;
+}
+
+.car-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.car-card {
+  width: 284px !important;
+  height: 300px !important;
+}
+
+footer {
+  background: #000000 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+}
+
+footer > .content {
+  text-align: center;
+  color: white;
+}
+
+.card {
+  background-color: unset !important;
+}
+
+.containercard {
+  background: #F8FAFC 0% 0% no-repeat padding-box !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .home-banner {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .home-button {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+            transform: translate(-50%);
+  }
+}
+
+.img-thumbnail {
+  margin-top: -15px;
+  width: 400px;
+  height: 350px;
+  margin-left: 50px;
+  border: none !important;
+  border-style: none !important;
+}
+
+.card-text {
+  font-size: 14px;
+}
+/*# sourceMappingURL=home.css.map */
